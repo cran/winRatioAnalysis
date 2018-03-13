@@ -1,0 +1,15 @@
+eb7302bb03945b8047784eb33834a6e7 *DESCRIPTION
+400d6c9250cab73decdab309b3b56e78 *NAMESPACE
+4019750dfa773415a40e00bb62a52e4b *R/cWinRatio1.R
+e3eabf25df929a7b617b94546bc279bd *R/createModel.R
+73ab2ee4319d646bdb54172d09813be1 *R/dwinratio.R
+29e5dec9758240c6e980618e781b8ab5 *R/lachin.R
+100cae4dd51b205abc7d276cd9aa2e08 *R/llikef.R
+4496705cd35ad4e4356962dbd8db0a36 *R/winratio.NP.R
+4d207bf2dc1f7943f57d60d40dfdfaf2 *R/winratio.sim.R
+f4e64b49861e71a73033de528bc7e07d *R/winratio5.R
+83a4fe3c01ba6a3fb9cc91e816933e48 *data/als.rda
+fad21698be0c6566705cd09931859a2f *data/dat.rda
+2a9fb7a4911fa0ef80b1fc1ce09d856a *man/als.Rd
+48f73532f4347b9abc1bdbf1c622a0b9 *man/dat.Rd
+abf77e7738843a35a4f412ac4d411726 *man/winRatio.Rd

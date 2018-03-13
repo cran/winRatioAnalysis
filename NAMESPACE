@@ -1,0 +1,8 @@
+export(winRatio)
+import(MLEcens,utils,graphics,Matrix,nlme,plyr,survival)
+importFrom(stats,approx, as.formula, na.omit, quantile)
+importFrom(data.table,data.table)
+importFrom(pssm,pssm,pssm.survivalcurv,pssm.generate.data)
+importFrom(JM,jointModel,simulate.jointModel)
+importFrom(mvtnorm,rmvnorm)
+
